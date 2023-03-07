@@ -13,9 +13,10 @@ This is a personal project, using Qt and yolo model to demonstrate recognition r
 在本地某个空的文件夹下面打开Git Bash Here
 
 输入下面的指令
-```git```
+
+```
 git clone `你刚刚复制的链接`
-```git```
+```
 
 最后回车即可完成创建本地仓库
 
